@@ -16,6 +16,8 @@
 	
 
 # How to Run it ?
+	Make sure you have installed chromedriver and added to classpath.
+	Installed ruby followed by gem watir. (Don't forget to add ruby to classpath)
         To run this navigate to the main directory (folder where you have all these files)
 	in your terminal and run the word ruby followed         
 	by the name of the file. Example: $ ruby Checker.rb
@@ -25,5 +27,5 @@
 
 # Additionals
 	Download chromedriver -> https://chromedriver.storage.googleapis.com/index.html?path=2.43/
-        If you already have a password list good enough but if you need to generate it then you 
-	can use Mentalist -> https://github.com/sc0tfree/mentalist 
+        If you already have a password list good enough but if you need 
+	to generate it then you can use Mentalist -> https://github.com/sc0tfree/mentalist 
