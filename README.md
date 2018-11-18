@@ -13,4 +13,4 @@
 
 # Additionals
 	Download chromedriver -> https://chromedriver.storage.googleapis.com/index.html?path=2.43/
-        If you already have a password list good enough but if you need to generate it then you can use Mentalist                                   https://github.com/sc0tfree/mentalist
+        If you already have a password list good enough but if you need to generate it then you can use Mentalist ->                               https://github.com/sc0tfree/mentalist 
