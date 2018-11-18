@@ -6,6 +6,15 @@
 	Make sure to update your login info in the creds.rb file.
 	The username and password ofcourse.
 
+# Proxy
+	Make sure to update the proxies(SOCKS5 ONLY) in the prox.rb file.
+	Use only live proxies(SOCKS5 ONLY).
+	Online Proxy -> 
+	https://www.proxy-list.download/SOCKS-Proxies/
+	Checker ->
+	http://www.checker.freeproxy.ru/checker/
+	
+
 # How to Run it ?
         To run this navigate to the main directory (folder where you have all these files)
 	in your terminal and run the word ruby followed         
